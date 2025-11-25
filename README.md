@@ -1,4 +1,4 @@
-# Hi there! I'm YK Gong
+# Hi there! I'm MUSE
 
 ## About Me
 AI/ML 엔지니어 & 풀스택 개발자
