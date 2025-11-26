@@ -38,6 +38,10 @@ AI/ML 엔지니어 & 풀스택 개발자
 | [MUSE AI Chatbot](https://github.com/yoon-k/ai-chatbot) | 엔터프라이즈급 AI 챗봇 플랫폼 - RAG, 멀티 LLM, 실시간 스트리밍 | FastAPI, OpenAI, ChromaDB |
 | [MUSE Vision](https://github.com/yoon-k/muse-vision) | 컴퓨터 비전 플랫폼 - 얼굴 인식, 객체 탐지, CCTV 분석 | YOLOv8, ArcFace, CLIP |
 | [MUSE Language](https://github.com/yoon-k/muse-language) | AI 언어 학습 플랫폼 - AI 튜터, 발음 평가, 게이미피케이션 | GPT-4, Whisper, React, SwiftUI |
+| [MUSE Customer Bot](https://github.com/yoon-k/muse-customer-bot) | AI 고객응대 챗봇 - 견적/발주 자동화, 다중 AI 지원 | OpenAI, Hugging Face, JavaScript |
+
+### Live Demos
+- **[Customer Bot Demo](https://yoon-k.github.io/muse-customer-bot/)** - AI 고객응대 챗봇 실제 테스트
 
 ## Expertise
 
